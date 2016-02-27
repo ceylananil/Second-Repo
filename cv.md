@@ -4,7 +4,6 @@ Ceylan Anıl
 ----
 
 - Address: Conradhof 23 5028 DV Tilburg Netherlands (Open to change)
-- Phone: +90 5543084986
 - Phone: +31 682019613
 - Email: ceylananil2@gmail.com
 
